@@ -67,5 +67,9 @@ This project is a **Single Page Application (SPA)** built with **React**, design
 
 ---
 
-## 6. Screenshots & Demo (Optional)
-*Include screenshots of the UI or link to a demo video here.*
+## 6. Video Demo
+
+A quick walkthrough video of the project is available here:  
+🎥 [Watch Demo on Google Drive](https://drive.google.com/file/d/1EsHAeRj18W2y0YOMdMHZmv8Zqr_ce2Xl/view?usp=sharing)
+
+
